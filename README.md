@@ -4,17 +4,22 @@
 
 ### Flagship Events:
 
--   Encode: solo event, odd-sem
--   Execute: team event, both sems, second edition is held during 'Cyber Shristi'
--   Knuth Cup: team event, even-sem, held during 'Impressions'
+-   **Encode**: solo event, odd-sem
+-   **Execute**: team event, both sems, second edition is held during 'Cyber Shristi'
+-   **Knuth Cup**: team event, even-sem, held during 'Impressions'
 
 Other warmup, practice and mashup contests as well as some fun and unique events are also organised over the course of the academic year.
 
 ### 2020-21
 
-| Date | Contest Name | Related Link(s) |
-| ---- | ------------ | --------------- |
-|      |              |                 |
+#### Educational Contests
+
+| #   | Date              | Related Link(s)                                                    | Topic(s)                                         |
+| --- | ----------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| 1   | Dec 9 - 13, 2020  | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/306996) | Searching and Sorting, Recursion, Implementation |
+| 2   | Dec 25 - 29, 2020 | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/309404) | Greedy, Dynamic Programming                      |
+
+<br>
 
 ### 2019-20
 
@@ -26,6 +31,8 @@ Other warmup, practice and mashup contests as well as some fun and unique events
 | Feb '20 | Knuth Cup                 | [Replay Contest](https://www.hackerrank.com/contests/knuth-cup-2020/challenges)                                                                                                                                                                  |
 | Feb '20 | Flash Coding              | [Prelim](https://www.hackerrank.com/contests/flash-contest-round-1/challenges), [Final](https://www.hackerrank.com/contests/flash-contest-finals/challenges)                                                                                     |
 | Feb '20 | Code Relay                | [Round 1](https://www.hackerrank.com/contests/code-relay20/challenges), [Round 2](https://www.hackerrank.com/contests/code-relay-problem-2/challenges), Round 3                                                                                  |
+
+<br>
 
 ### 2018-19
 
