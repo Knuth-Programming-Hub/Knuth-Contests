@@ -4,9 +4,9 @@
 
 ### Flagship Events:
 
--   **Encode**: solo event, odd-sem
--   **Execute**: team event, both sems, second edition is held during 'Cyber Shristi'
--   **Knuth Cup**: team event, even-sem, held during 'Impressions'
+- **Encode**: solo event, odd-sem
+- **Execute**: team event, both sems, second edition is held during 'Cyber Shristi'
+- **Knuth Cup**: team event, even-sem, held during 'Impressions'
 
 Other warmup, practice and mashup contests as well as some fun and unique events are also organised over the course of the academic year.
 
@@ -14,10 +14,11 @@ Other warmup, practice and mashup contests as well as some fun and unique events
 
 #### Educational Contests
 
-| #   | Date              | Related Link(s)                                                    | Topic(s)                                         |
-| --- | ----------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
-| 1   | Dec 9 - 13, 2020  | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/306996) | Searching and Sorting, Recursion, Implementation |
-| 2   | Dec 25 - 29, 2020 | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/309404) | Greedy, Dynamic Programming                      |
+| #   | Date                 | Related Link(s)                                                    | Topic(s)                                         |
+| --- | -------------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| 1   | Dec 9 - 13, 2020     | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/306996) | Searching and Sorting, Recursion, Implementation |
+| 2   | Dec 25 - 29, 2020    | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/309404) | Greedy, Dynamic Programming                      |
+| 3   | Jan 30 - Feb 3, 2021 | [Problems](https://codeforces.com/group/IUJm1OmeBo/contest/314323) | Number Theory                                    |
 
 <br>
 
